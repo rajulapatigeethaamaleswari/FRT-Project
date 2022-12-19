@@ -5,7 +5,7 @@ This is a web based application developed for health related health based websit
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - 
+*Project Link* - https://red-glacier-05b092600.2.azurestaticapps.net
 
 *project Demo video link* -
 
@@ -81,7 +81,8 @@ This is a web based application developed for health related health based websit
 
 ### static web apps -
 
-![fig9](https://user-images.githubusercontent.com/118436077/208362068-fd891713-5db2-496c-a3be-98ab04520b3e.png)
+![image](https://user-images.githubusercontent.com/118436077/208397587-3dd5a1ef-8d4c-452e-8632-bc952ee3ec40.png)
+
 
 
 ### Azure health bot -
